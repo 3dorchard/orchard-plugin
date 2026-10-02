@@ -1,0 +1,19 @@
+{
+  "name": "3dorchard",
+  "owner": {
+    "name": "Orchard",
+    "email": "support@3dorchard.com"
+  },
+  "metadata": {
+    "description": "Orchard's official plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "orchard",
+      "source": "./",
+      "description": "Design manufacturable 3D CAD parts in Orchard: your agent plans, builds, checks and saves parametric parts and assemblies in your own open Orchard editor tab.",
+      "category": "design",
+      "homepage": "https://3dorchard.com"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "orchard",
+  "version": "1.0.0",
+  "description": "Design manufacturable 3D CAD parts in Orchard: your agent plans, builds, checks and saves parametric parts and assemblies in your own open Orchard editor tab.",
+  "author": {
+    "name": "Orchard",
+    "email": "support@3dorchard.com",
+    "url": "https://3dorchard.com"
+  },
+  "homepage": "https://3dorchard.com",
+  "repository": "https://github.com/3dorchard/orchard-plugin",
+  "license": "MIT",
+  "keywords": ["orchard", "3dorchard", "orchard cad", "cad"]
+}

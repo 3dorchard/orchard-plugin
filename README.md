@@ -1,6 +1,6 @@
 # Orchard plugin
 
-Connects your coding agent to [Orchard](https://3dorchard.com), a browser-based parametric CAD platform. Your agent plans a part, builds it in your own open Orchard editor tab while you watch, checks it against the plan, and saves it to your Orchard account.
+Connects your coding agent to [Orchard](https://3dorchard.com), a free, browser-based parametric 3D CAD platform for parts you will 3D print, machine on a CNC or fabricate. Your agent plans a part, builds it in your own open Orchard editor tab while you watch, checks it against the plan, and saves it to your Orchard account.
 
 The plugin contains one thing: the address of Orchard's hosted MCP server, `https://mcp.3dorchard.com/mcp`. It runs no code on your machine.
 
